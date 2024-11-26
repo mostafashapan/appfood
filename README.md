@@ -44,8 +44,3 @@ This is the first project of our JSB program @ Upskilling , very excited for the
 🟡Auth/Master layout
 🟢deployment with netlify/github
 🟡Login using GoogleAcount
-
- ▶ github repo link
-https://lnkd.in/eHtWcwPK
-▶ live demo of project
-https://lnkd.in/eGFsET-z
